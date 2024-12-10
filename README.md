@@ -11,3 +11,4 @@ linguagem: c++
 parte artística (roteiro, imagens e design da UI): eu, rhickson e francisco.
 código: eu, gabriel e francisco
 
+// preciso alterar para o código atual
